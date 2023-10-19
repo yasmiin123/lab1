@@ -1,2 +1,3 @@
 # lab1
-print ("yasminoooo"); 
+print ("yasminoooo");
+print ("FYT");
